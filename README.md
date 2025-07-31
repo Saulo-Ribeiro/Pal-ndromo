@@ -1,2 +1,2 @@
-# Pal-ndromo
+# Palíndromo
 verificar se a palavra é um palíndromo
